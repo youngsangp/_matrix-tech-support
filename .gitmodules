@@ -1,0 +1,3 @@
+[submodule "matrix-support/matrix-common-gradle"]
+	path = matrix-support/matrix-common-gradle
+	url = ssh://git@rndci.bimatrix.co.kr:10022/develop/matrix-common-gradle.git
